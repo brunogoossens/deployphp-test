@@ -1,3 +1,3 @@
 <?php
 
-echo 'Yess3';
+phpinfo();
